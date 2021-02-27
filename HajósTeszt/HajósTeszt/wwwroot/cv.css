@@ -1,0 +1,32 @@
+﻿body {
+    border: solid;
+ 
+    border-color: darkgreen;
+
+}
+.elso{
+    background-color: deepskyblue;
+    border: solid;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: white;
+    font-family: Arial;
+    font-style:italic;
+}
+.masodik{
+    border: dashed;
+    border-radius: 10px;
+    border-color: grey;
+}
+.harmadik{
+    font-family:'Times New Roman', Times, serif;
+    color: red;
+    background-color: royalblue;
+}
+.utolso{
+    background-color: forestgreen;
+    color: white;
+    border-right:solid;
+    border-left: double;
+
+}
